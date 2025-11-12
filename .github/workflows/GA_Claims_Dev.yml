@@ -15,11 +15,11 @@ jobs:
           Write-Host "Hi from GitHub Action!"
           Write-Host "---"
           Start-Sleep -Seconds 5
-          Write-Host "Hi from GitHub Action! 2"
+          Write-Host "Waiting for 5 seconds - 2"
           Start-Sleep -Seconds 5
-          Write-Host "Hi from GitHub Action! 2"
+          Write-Host "Waiting for 5 seconds - 3"
           Start-Sleep -Seconds 5
-          Write-Host "Hi from GitHub Action! 3"
+          Write-Host "Waiting for 5 seconds - 4"
           Start-Sleep -Seconds 5
           Write-Host "Completed execution of Github action"
           
