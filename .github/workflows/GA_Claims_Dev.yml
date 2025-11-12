@@ -14,8 +14,8 @@ jobs:
         run: |
           Write-Host "Hi from GitHub Action!"
           Write-Host "---"
-          Start-Sleep -Seconds 5
-          Write-Host "Waiting for 5 seconds - 2"
+          Start-Sleep -Seconds 50
+          Write-Host "Waiting for 50 seconds - 2"
           Start-Sleep -Seconds 5
           Write-Host "Waiting for 5 seconds - 3"
           Start-Sleep -Seconds 5
