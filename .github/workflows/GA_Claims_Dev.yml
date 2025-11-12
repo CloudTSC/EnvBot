@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  hello_job:
+  Execute_Powershell:
     runs-on: windows-latest # Must use a Windows runner for native PowerShell execution
     
     steps:
